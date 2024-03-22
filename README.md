@@ -93,7 +93,7 @@ Our resulting p-value after performing a permutation test using difference in me
 <iframe
   src="assets/minutes_missing.html"
   width="800"
-  height="1200"
+  height="400"
   frameborder="0"
 ></iframe>
 
